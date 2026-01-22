@@ -220,8 +220,8 @@ export function LegalModal({ isOpen, onClose, type }: LegalModalProps) {
                   >
                     <p className="text-sm text-zinc-400">
                       <strong className="text-cyan-400">Questions?</strong> If you have any questions about our {type === 'privacy' ? 'Privacy Policy' : 'Terms of Service'}, please contact us at{' '}
-                      <a href="mailto:legal@onemillion.com" className="text-cyan-400 hover:text-cyan-300 transition-colors">
-                        legal@onemillion.com
+                      <a href="mailto:iamaffanyousuf01@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition-colors">
+                        iamaffanyousuf01@gmail.com
                       </a>
                     </p>
                   </motion.div>
