@@ -2,9 +2,9 @@
 
 **OneMillion** is a sleek, high-performance web application designed for gamers to discover, review, and track their favorite titles. Built with a focus on speed and user experience, it serves as a centralized hub for gaming enthusiasts.
 
-**Live Demo:** [onemilliongamereviews.vercel.app](https://www.google.com/search?q=https://onemilliongamereviews.vercel.app)
+**Live Demo:** [onemilliongamereviews.vercel.app](https://onemilliongamereviews.vercel.app)
 
-**Alternative Link:** [onemillion-livid.vercel.app](https://www.google.com/search?q=https://onemillion-livid.vercel.app)
+**Alternative Link:** [onemillion-livid.vercel.app](https://onemillion-livid.vercel.app)
 
 ---
 
