@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Gamepad2, Github, Twitter, Youtube, Mail, Zap } from 'lucide-react';
+import { Gamepad2, Github, Twitter, Linkedin, Mail, Zap } from 'lucide-react';
 import { useState } from 'react';
 import { LegalModal } from '../modals/legal-modal';
 import { ComingSoonModal } from '../modals/comingsoon-modal';
@@ -62,7 +62,7 @@ export function Footer() {
 
   const socialLinks = [
     { icon: Twitter, label: 'Twitter', action: 'link', href: 'https://x.com/iamaffanyousuf', external: true },
-    { icon: Youtube, label: 'YouTube', action: 'link', href: 'https://youtube.com/@thenamesjin', external: true },
+    { icon: Linkedin, label: 'LinkedIn', action: 'link', href: 'https://www.linkedin.com/in/iamaffanyousuf/', external: true },
     { icon: Github, label: 'GitHub', action: 'link', href: 'https://github.com/iamaffanyousuf', external: true },
     { icon: Mail, label: 'Email', action: 'link', href: 'https://mail.google.com/mail/?view=cm&fs=1&to=iamaffanyousuf01@gmail.com&su=Contact%20from%20oneMillion&body=Hi%20Affan%20Yousuf,', external: true },
   ];

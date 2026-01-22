@@ -15,11 +15,11 @@ export function LegalModal({ isOpen, onClose, type }: LegalModalProps) {
       sections: [
         {
           title: 'Information We Collect',
-          content: 'We collect information that you provide directly to us, including when you create an account, browse games, write reviews, or contact our support team. This may include your name, email address, username, and gaming preferences.'
+          content: 'We collect information that you provide directly to us, including when you create an account, write reviews, or contact our support team. This may include your name, email address, username, and gaming preferences -(if applicable).'
         },
         {
           title: 'How We Use Your Information',
-          content: 'We use the information we collect to provide, maintain, and improve our services, to personalize your experience, to communicate with you about games and updates, and to protect against fraud and abuse.'
+          content: 'We use the information we collect to provide, maintain, and improve our services, to personalize your experience, to communicate with you about games and updates, and to protect against fraud and abuse -(if applicable).'
         },
         {
           title: 'Information Sharing',
@@ -79,15 +79,15 @@ export function LegalModal({ isOpen, onClose, type }: LegalModalProps) {
       sections: [
         {
           title: 'Our Mission',
-          content: 'At oneMillion, our mission is to create the ultimate gaming community where players can discover, share, and celebrate incredible gaming experiences. We believe in connecting gamers worldwide through authentic reviews, engaging content, and a passion for interactive entertainment.'
+          content: 'At oneMillion, our mission is to create the ultimate gaming community where players blah blah LoL it is just a work from passion and for practice.'
         },
         {
           title: 'Who We Are',
-          content: 'We are a team of passionate gamers, developers, designers, and content creators united by our love for gaming. From indie gems to AAA blockbusters, we curate and review games across all platforms to help you find your next favorite title.'
+          content: 'We are a team of passionate gamers, developers blah blah nope it is just me SOLO working on this project for practice and learning purposes. Although I am a gamer though :)'
         },
         {
           title: 'Our Vision',
-          content: 'We envision a world where every gamer has access to honest, comprehensive game reviews and a supportive community. Our platform combines cutting-edge technology with human insight to deliver the most accurate and helpful gaming recommendations.'
+          content: 'We envision a world where every gamer has access to honest blah blah blah I don\'t know.'
         },
         {
           title: 'What We Offer',
@@ -99,7 +99,7 @@ export function LegalModal({ isOpen, onClose, type }: LegalModalProps) {
         },
         {
           title: 'Get In Touch',
-          content: 'We love hearing from our community! Whether you have suggestions, feedback, or just want to chat about games, reach us at info@onemillion.com. Follow us on social media for daily gaming updates and join the conversation.'
+          content: 'Please don\'t, unless you really want to contact me at iamaffanyousuf01@gmail.com. Follow me on linked in: https://www.linkedin.com/in/iamaffanyousuf/'
         }
       ]
     }
