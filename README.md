@@ -28,7 +28,7 @@ This project was built using modern web technologies to ensure scalability and p
 
 This project is solo developed and maintained by:
 
-* **iamaffanyousuf** – [GitHub Profile](https://www.google.com/search?q=https://github.com/iamaffanyousuf) | [LinkedIn](https://linkedin.com/in/iamaffanyousuf)
+* **iamaffanyousuf** – [GitHub Profile](https://github.com/iamaffanyousuf) | [LinkedIn](https://linkedin.com/in/iamaffanyousuf)
 
 ---
 
